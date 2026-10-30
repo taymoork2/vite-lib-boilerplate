@@ -65,7 +65,7 @@
     "sinon": "^11.1.2",
     "ts-jest": "^27.0.4",
     "typescript": "^4.3.5",
-    "vite": "^2.4.4",
+    "vite": "^6.4.5",
     "vite-plugin-checker": "^0.3.4"
   },
   "lint-staged": {
